@@ -1,6 +1,6 @@
-baseURL = "http://www.liberation.online"
+baseURL = "http://www.liberation.online/"
 languageCode = "en-us"
-title = "Liberation Online - Freedom for us all"
+title = "Liberation Online - Freedom for us all!"
 theme = "hugo-initio"
 publishDir = "docs"
 
