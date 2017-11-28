@@ -1,4 +1,4 @@
-baseURL = "http://www.liberation.online/"
+baseURL = "https://www.liberation.online/"
 languageCode = "en-us"
 title = "Liberation Online - Freedom for us all!"
 theme = "hugo-initio"
