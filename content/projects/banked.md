@@ -1,8 +1,8 @@
 +++
-title = "Banked"
+title = "Avatar"
 +++
 
-Two billion people worldwide do not have a bank account or access to a financial institution via a mobile phone, or any other device.
+Avatar puts you back in control of your online identity! You should be able to access the internet freely without having to give up your personal information. 
 
 <!--more-->
 
