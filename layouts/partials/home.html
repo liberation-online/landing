@@ -10,6 +10,10 @@
             {{ partial "introduction.html" . }}
         {{ end }}
 
+				{{ if .Site.Params.showCallToAction }}
+            {{ partial "calltoaction.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.showProjects}}
             {{ partial "projects.html" . }}
         {{ end }}
@@ -22,8 +26,8 @@
             {{ partial "download.html" . }}
         {{ end }}
 
-        {{ if .Site.Params.showClients }}
-            {{ partial "clients.html" . }}
+        {{ if .Site.Params.showPartners }}
+            {{ partial "partners.html" . }}
         {{ end }}
 
 	</div>	<!-- /container -->

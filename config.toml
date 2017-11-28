@@ -20,10 +20,11 @@ publishDir = "docs"
 
     showSubheader = true
     showIntroduction = true
+    showCallToAction = true
     showProjects = true
     showRecentWorks = false
     showDownload = false
-    showClients = false
+    showPartners = false
 
 [[menu.main]]
     name = "home"
