@@ -5,6 +5,8 @@
 }
   #footer ul li {
     list-style-type: none;
+    border-bottom: 1px solid #333;
+    padding-bottom: 0.2em;
   }
     #footer ul li a {
       color: #999;
