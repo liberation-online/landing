@@ -10,7 +10,7 @@ publishDir = "docs"
 
     name = "Adam Martin"
     description = "freedom from limits on thought or behaviour"
-    email = "hello@liberation.online"
+    email = "liberationonline@protonmail.com"
     phone = ""
     address = ""
     year = 2017
@@ -20,7 +20,7 @@ publishDir = "docs"
 
     showSubheader = true
     showIntroduction = true
-    showProjects = false
+    showProjects = true
     showRecentWorks = false
     showDownload = false
     showClients = false
