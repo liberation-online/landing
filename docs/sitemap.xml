@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://liberation.online/categories/</loc>
+    <loc>http://www.liberation.online/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://liberation.online/</loc>
+    <loc>http://www.liberation.online/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://liberation.online/tags/</loc>
+    <loc>http://www.liberation.online/tags/</loc>
     <priority>0</priority>
   </url>
   
