@@ -9,7 +9,7 @@ publishDir = "docs"
     company = "Liberation Online"
 
     name = "Adam Martin"
-    description = "freedom from limits on thought or behaviour"
+    description = "Freedom from limits on thought or behaviour."
     email = "liberationonline@protonmail.com"
     phone = ""
     address = ""
