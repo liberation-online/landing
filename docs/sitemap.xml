@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.liberation.online/projects/banked/</loc>
+    <loc>https://www.liberation.online/projects/</loc>
+    <lastmod>2017-11-29T07:27:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liberation.online/projects/avatar/</loc>
   </url>
   
   <url>
@@ -17,6 +22,7 @@
   
   <url>
     <loc>https://www.liberation.online/</loc>
+    <lastmod>2017-11-29T07:27:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
