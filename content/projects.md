@@ -6,4 +6,4 @@ type = "about"
 weight = 2
 +++
 
-Lorem ipsum dolor sit amet,
+This section is being worked on.
