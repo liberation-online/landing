@@ -47,11 +47,12 @@ An ecommerce site could automatically show me (as a male) all the male clothing 
 
 Even better, they could see that I am in London and that it is raining currently and so show me appropriate rainy weather apparel.
 
-I news channel could customise the stories it shows me, if I am not interested in Football, then it would not show me any
+A news channel could customise the stories it shows me, if I am not interested in Football, then it would not show me any
 football related stories.
 
 ##### 2. Dynamic Synergy Networks
 The ability to create networks of people and assets that align with your own interests, attributes etc. For example, a network can be created around all those people that enjoy a particular band and then further segmented down:
+
 1. Are attending the next concert in London (temporary).
 2. That live in SW London and would like to meet up before going to the concert.
 
@@ -76,4 +77,4 @@ The KIWI will be paid to AVATAR owners that choose to provide certain informatio
 that want to access AVATAR data have to pay you for access to that information. Yes, we are turning things around. You remain
 in control of your data, data that is not personally identifiable to you, and rather than a middleman such as google getting paid for this information - you do.
 
-We will also be working with companies to develop further data sets that can only be used by them. 
+We will also be working with companies to develop further data sets that can only be used by them.
