@@ -17,6 +17,10 @@ You could confirm this without giving up personal details such as your birthdate
 
 We are working on a better way&hellip;
 
+#### Personalised Anonymity
+The ability to use data related to a user in a way that allows for high levels of relevant personalisation in a manner that
+allows the user anonymity if that user chooses to do so. The connected world your way.
+
 ### FAQs
 
 #### Where can I get my avatar?
