@@ -33,10 +33,12 @@ Using a combination of:
 4. Qualifiers
   1. Rules based on any of the other dimensions (attributes, influencers, adjusters)
 
+We can allow companies, websites etc to personalise our experience with them without giving up identifiable data.
+
 *More details on the above will be released with our whitepaper.*
 
 #### Example Scenarios
-##### Personalised Preference Site Modifier
+##### 1. Personalised Preference Site Modifier
 Using a combination of a site visitors attributes, adjusters and influencers; the content presented to the visitor will be dynamically generated to better suit their needs.
 
 From as simple as showing where the nearest physical store is to a completely customised experience unique to every visitor which will guarantee a better customer experience and better engagement.
@@ -48,11 +50,23 @@ Even better, they could see that I am in London and that it is raining currently
 I news channel could customise the stories it shows me, if I am not interested in Football, then it would not show me any
 football related stories.
 
-### FAQs
+##### 2. Dynamic Synergy Networks
+The ability to create networks of people and assets that align with your own interests, attributes etc. For example, a network can be created around all those people that enjoy a particular band and then further segmented down:
+1. Are attending the next concert in London (temporary).
+2. That live in SW London and would like to meet up before going to the concert.
 
-#### Where can I get my avatar?
-The Avatar system is under development at the moment. We will announce the website shortly.
+##### 3. More examples
+I am sure you are already thinking about the different ways the web could be optimised and personalised to you. Here are just
+a few more ideas:
 
-#### How will the KIWI be used
-To get an Avatar you will need to spend have KIWI. There will be a small fee to pay for the creation of your avatar. This is
-a one time fee.  
+* Displaying of information only to those that meet certain conditions.
+* Automatic changing of language on a website or app.
+* Automatic changing of website to assist those with accessibility needs
+* Dating site without the need to create a profile
+* Store finder that shows automatically the nearest store
+* Catalogue adjustment incorporating influencers (weather)
+* Advertising targeting
+* &hellip;
+
+### Where are we now?
+We are currently in the process of building a Proof of Concept that will demonstrate the basic use cases. 
