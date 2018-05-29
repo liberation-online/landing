@@ -69,4 +69,11 @@ a few more ideas:
 * &hellip;
 
 ### Where are we now?
-We are currently in the process of building a Proof of Concept that will demonstrate the basic use cases. 
+We are currently in the process of building a Proof of Concept that will demonstrate the basic use cases.
+
+### How will the KIWI be used?
+The KIWI will be paid to AVATAR owners that choose to provide certain information to websites that they interact with. Websites
+that want to access AVATAR data have to pay you for access to that information. Yes, we are turning things around. You remain
+in control of your data, data that is not personally identifiable to you, and rather than a middleman such as google getting paid for this information - you do.
+
+We will also be working with companies to develop further data sets that can only be used by them. 
