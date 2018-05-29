@@ -33,7 +33,20 @@ Using a combination of:
 4. Qualifiers
   1. Rules based on any of the other dimensions (attributes, influencers, adjusters)
 
-*More details on the above will be released with our whitepaper*
+*More details on the above will be released with our whitepaper.*
+
+#### Example Scenarios
+##### Personalised Preference Site Modifier
+Using a combination of a site visitors attributes, adjusters and influencers; the content presented to the visitor will be dynamically generated to better suit their needs.
+
+From as simple as showing where the nearest physical store is to a completely customised experience unique to every visitor which will guarantee a better customer experience and better engagement.
+
+An ecommerce site could automatically show me (as a male) all the male clothing items for sale instead of a generic sale image.
+
+Even better, they could see that I am in London and that it is raining currently and so show me appropriate rainy weather apparel.
+
+I news channel could customise the stories it shows me, if I am not interested in Football, then it would not show me any
+football related stories.
 
 ### FAQs
 
