@@ -21,6 +21,20 @@ We are working on a better way&hellip;
 The ability to use data related to a user in a way that allows for high levels of relevant personalisation in a manner that
 allows the user anonymity if that user chooses to do so. The connected world your way.
 
+Using a combination of:
+
+1. Attributes
+  1. Physical
+  2. Behavioral
+2. Adjusters
+3. Influencers
+  1. Location
+  2. Weather
+4. Qualifiers
+  1. Rules based on any of the other dimensions (attributes, influencers, adjusters)
+
+*More details on the above will be released with our whitepaper*
+
 ### FAQs
 
 #### Where can I get my avatar?
