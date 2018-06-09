@@ -832,3 +832,13 @@ footer.entry-meta .meta-in {
       color: #004488;
    }
 }
+
+/*Bootstrap fix for sizing issue on mobile devices*/
+.row {
+	margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.col-lg-8 .table {
+    word-break: break-word;
+}
