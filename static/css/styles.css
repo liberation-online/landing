@@ -861,6 +861,7 @@ footer.entry-meta .meta-in {
 }
   .corner-ribbon a {
     color: white;
+    text-decoration: none;
   }
 
 /* Custom styles */
