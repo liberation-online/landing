@@ -909,7 +909,7 @@ footer.entry-meta .meta-in {
 .corner-ribbon.black{background: #333;}
 .corner-ribbon.grey{background: #999;}
 .corner-ribbon.blue{background: #39d;}
-.corner-ribbon.green{background: #2c7;}
+.corner-ribbon.green{background: #2c7; box-shadow: 1px 1px 1px #000;}
 .corner-ribbon.turquoise{background: #1b9;}
 .corner-ribbon.purple{background: #95b;}
 .corner-ribbon.red {
