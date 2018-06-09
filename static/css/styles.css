@@ -858,6 +858,9 @@ footer.entry-meta .meta-in {
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
 }
+  .corner-ribbon a {
+    color: white;
+  }
 
 /* Custom styles */
 
