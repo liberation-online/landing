@@ -3,17 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.liberation.online/current-projects/</loc>
+    <lastmod>2017-11-29T07:27:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.liberation.online/kiwi/</loc>
     <lastmod>2017-11-29T07:27:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.liberation.online/projects/</loc>
-    <lastmod>2017-11-29T07:27:11+00:00</lastmod>
+    <loc>https://www.liberation.online/consultancy/</loc>
+    <lastmod>2018-06-11T13:03:38+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.liberation.online/projects/avatar/</loc>
+    <lastmod>2018-06-11T13:03:38+02:00</lastmod>
   </url>
   
   <url>
@@ -37,6 +43,7 @@
   
   <url>
     <loc>https://www.liberation.online/projects/</loc>
+    <lastmod>2018-06-11T13:03:38+02:00</lastmod>
     <priority>0</priority>
   </url>
   
